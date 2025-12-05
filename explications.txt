@@ -1,0 +1,5 @@
+﻿git log : J'ai utilisé cette commande pour voir la liste de mes 3 commits. On voit les identifiants et les messages que j'ai mis.
+
+git show : Cette commande m'a montré ce qu'il y avait dans le commit du Chapitre 2. On voit bien la ligne ajoutée.
+
+git diff : J'ai comparé la version d'avant avec la dernière. Ça affiche les différences entre les deux fichiers.

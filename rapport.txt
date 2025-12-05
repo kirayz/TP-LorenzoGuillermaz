@@ -1,0 +1,8 @@
+﻿1. Quas-tu appris pendant ce TP ?
+Ce TP m'a permis de consolider mes connaissances sur le cycle de vie d'un projet Git. J'ai appris à manipuler l'historique avec précision, notamment en modifiant des commits existants, en annulant des modifications proprement via revert, et en utilisant le stash pour gérer le travail en cours.
+
+2. Quelle commande Git as-tu trouvé la plus utile et pourquoi ?
+La commande git revert m'a semblé particulièrement pertinente. Elle offre une méthode sécurisée pour annuler un commit spécifique tout en conservant la traçabilité de l'annulation dans l'historique, ce qui est essentiel pour le travail collaboratif.
+
+3. Quelle partie ta posé le plus de difficulté ?
+La gestion du conflit lors de l'étape 6 a été le point le plus délicat. Il a fallu analyser les marqueurs de conflit générés par git revert pour comprendre quelles lignes conserver afin de restaurer l'état souhaité du fichier.
